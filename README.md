@@ -8,3 +8,6 @@ Our full stack development project will solve this non-existent problem of peopl
 #Tech Stack
 - MySQL
 - VSCode
+
+#Important Info
+This project was a tad too ambitious for our first project at a hackathon, so the rest of the project will be comnpleted outside of competition hours.
